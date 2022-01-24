@@ -28,7 +28,7 @@ namespace SignalRChat.Pages
 
         [BindProperty]
         [DataType(DataType.EmailAddress)] 
-        public string Email { get; set; } = "colea.ursu.99@gmail.com";//stop page from refreshing
+        public string Email { get; set; } = "terstters86@gmail.com";
 
         public async void OnGetAsync()
         {
